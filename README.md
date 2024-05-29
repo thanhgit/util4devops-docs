@@ -39,3 +39,13 @@ $ GIT_USER=<Your GitHub username> yarn deploy
 ```
 
 If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+
+### `Configure domain`
+- ### Create static/CNAME
+```bash
+docs.util4dev.shop
+```
+- ### Add CNAME record
+```bash
+CNAME docs.util4dev.shop thanhgit.github.io
+```
