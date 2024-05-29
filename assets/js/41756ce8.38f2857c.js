@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkuti_4_devops_docs=self.webpackChunkuti_4_devops_docs||[]).push([[616],{5205:s=>{s.exports=JSON.parse('{"tags":[{"label":"idp","permalink":"/blog/tags/idp","count":1},{"label":"blog","permalink":"/blog/tags/blog","count":1}]}')}}]);
