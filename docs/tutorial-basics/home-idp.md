@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Home dashboard
+# IDP home
 
 ![](./media/idp-home-search.png)
 
@@ -13,6 +13,10 @@ This page is **group of sections** connected through:
 - **project shortcut** to quickly access to content you frequently access such as service catalog, API docs, ... 
 - **toolkit** contains then main features that IDP provides
 - **utility functions** contains many functions that developers frequently use
+
+#### Project shortcut feature
+
+![](./media/click-project-shortcut.gif)
 
 #### Search feature
 
