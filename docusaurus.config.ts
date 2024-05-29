@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Util4Devops',
-  tagline: 'Make your life more innovation-focused by eliminate toils (daily and repetitive works)',
+  tagline: 'Make your life more innovation-focused by eliminate toils (daily and repetitive tasks)',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
