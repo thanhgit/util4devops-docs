@@ -14,8 +14,7 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Util4devops was designed from the ground up to be easily use
       </>
     ),
   },
@@ -24,18 +23,17 @@ const FeatureList: FeatureItem[] = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Util4devops lets you focus on your work, and we&apos;ll try to do the rest. Go
+        ahead and focus on innovate into the your works, make it <code>more efficient with streamlined processes</code>, <code>innovate WoW (way of work)</code>
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Powered by Platform enginering',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        <code>Enable self-service capabilities</code> for software engineering organizations in the cloud-native era and it most often referred to as an “Internal Developer Platform” covering the operational necessities of the entire lifecycle of an application
       </>
     ),
   },
