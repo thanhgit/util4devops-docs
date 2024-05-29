@@ -1,6 +1,9 @@
 .PHONY: git-update-docs git-update-config git-update-makefile \
-	deploy
+	start deploy
 
+start:
+	echo y | yarn start
+	
 deploy:
 	yarn run deploy
 
