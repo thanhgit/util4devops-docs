@@ -16,7 +16,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'thanhgit', // Usually your GitHub org/user name.
-  projectName: 'uti4devops', // Usually your repo name.
+  projectName: 'uti4devops-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
