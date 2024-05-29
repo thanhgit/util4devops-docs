@@ -1,4 +1,8 @@
-.PHONY: git-update-docs git-update-config git-update-makefile
+.PHONY: git-update-docs git-update-config git-update-makefile \
+	deploy
+
+deploy:
+	yarn run deploy
 
 git-update-docs:
 	git add .
