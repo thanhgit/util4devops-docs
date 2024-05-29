@@ -59,9 +59,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'Util4devops',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Util4devops Logo',
         src: 'img/logo.svg',
       },
       items: [
