@@ -13,8 +13,8 @@
             <link>https://docs.util4dev.shop/blog/welcome</link>
             <guid>https://docs.util4dev.shop/blog/welcome</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
-            <description><![CDATA[Util4devops are powered by the platform engineering.]]></description>
-            <content:encoded><![CDATA[<p>Util4devops are powered by the <a href="https://platformengineering.org/" target="_blank" rel="noopener noreferrer">platform engineering</a>.</p>
+            <description><![CDATA[Util4devops are powered by the platform engineering and backstage framework]]></description>
+            <content:encoded><![CDATA[<p>Util4devops are powered by the <a href="https://platformengineering.org/" target="_blank" rel="noopener noreferrer">platform engineering</a> and <a href="https://backstage.io/" target="_blank" rel="noopener noreferrer">backstage framework</a></p>
 <p>Simplify repetitive tasks with automated tools</p>
 <p>Work as <code>a connectivity hub</code> for all the tools in your organization</p>]]></content:encoded>
             <category>idp</category>
