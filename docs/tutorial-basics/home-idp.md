@@ -22,6 +22,12 @@ This page is **group of sections** connected through:
 
 ![](./media/idp-home-search-click-search.png)
 
+![](./media/click-search.gif)
+
+### Utility functions for developers
+
+![](./media/click-utility-functions.gif)
+
 #### Catalog feature
 
 ![](./media/idp-home-search-click-catalog.png)
