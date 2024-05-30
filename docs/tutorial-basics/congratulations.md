@@ -4,20 +4,15 @@ sidebar_position: 6
 
 # Congratulations!
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+You have just learned the **basics of Util4devops IDP** and made some changes to the **initial template**.
 
-Docusaurus has **much more to offer**!
+Util4devops IDP has **much more to offer**!
 
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
+Have **30 more minutes**? Take a look at **[Tutorial - Extras](/docs/category/tutorial---extras)**.
 
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
+Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/thanhgit/uti4devops-docs/issues)
 
 ## What's next?
 
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+- Find inspirations in the IDP showcase at [Devops - Platform Engineering](https://www.youtube.com/channel/UCmYt1d5cxECuOFpdaqd--Jw)
+- Get involved in the [Platform engineering Community](https://platformengineering.org/)

@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# IDP home
+# IDP - Home
 
 ![](./media/idp-home-search.png)
 
