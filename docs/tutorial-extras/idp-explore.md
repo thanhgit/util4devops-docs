@@ -9,7 +9,7 @@ This page explore your structural organization such as
 - **Domains** of projects such as Payments, Core Banking, Card, ...
 - **Groups** is whom, 
 
-#### `Domain`
+### `Domain`
 - #### Documentation reference: https://backstage.io/docs/features/software-catalog/system-model/#domain
 
 - #### `Overview domain page`
@@ -21,7 +21,7 @@ This page explore your structural organization such as
   ![](./img/explore-domain.gif)
 
 
-#### `Groups`
+### `Groups`
 - ### Documentation reference: https://backstage.io/docs/features/software-catalog/system-model/#group
 
 - #### `Overview group page`
@@ -32,7 +32,7 @@ This page explore your structural organization such as
 
   ![](./img/explore-group.gif)
 
-#### `Systems`
+### `Systems`
 - ### Documentation reference: https://backstage.io/docs/features/software-catalog/system-model/#system
 
 - #### `Overview system page`
@@ -43,7 +43,7 @@ This page explore your structural organization such as
 
   ![](./img/explore-system.gif)
 
-#### `Tools`
+### `Tools`
 - ### **Some tools** used in your organization
 
 - #### `Overview tool page`
