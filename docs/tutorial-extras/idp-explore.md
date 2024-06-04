@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # IDP - Explore
 
-This page explore your structural organization such as
+This page helps you explore your system model like domains, groups, systems, tools
 
 - **Domains** of projects such as Payments, Core Banking, Card, ...
 - **Groups** is whom, 

@@ -4,9 +4,11 @@ sidebar_position: 2
 
 # IDP - Home
 
+This page contains some features that you often use like search, quickly access, utility tools, ...
+
 ![](./media/idp-home-search.png)
 
-This page is **group of sections** connected through:
+It is **group of sections** connected through:
 
 - a **sidebar** contains mutiple features such as: search, catalog, api, documentation, ...
 - **Search box** to search all related catalog, api, documentation, ...

@@ -4,10 +4,10 @@ sidebar_position: 1
 
 # Create a Account
 
-Create **a account** at others provider:
+Create **a account** at others provider: `github`, `gitlab`, `self-hosted gitlab`
 
 - `Github` provider, please refer to at https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github
-- `Github` provider, please refer to at https://about.gitlab.com/get-started/
+- `Gitlab` provider, please refer to at https://about.gitlab.com/get-started/
 - `Self-hosted gitlab` provider, please contact your organization to request an account
 
 #### Login a account (`github`)
