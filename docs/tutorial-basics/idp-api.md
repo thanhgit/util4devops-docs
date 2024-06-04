@@ -8,7 +8,7 @@ sidebar_position: 4
 
 It is responsible for **API component**
 
-#### Create a `catalog-info.yaml` file for API component
+### Create a `catalog-info.yaml` file for API component
 - #### Reference documentation: https://backstage.io/docs/features/software-catalog/software-catalog-api/
 
 - #### For example:
@@ -119,9 +119,11 @@ components:
           type: string
 ```
 
-#### Create a component for API component **[link](/docs/tutorial-basics/idp-service-catalog#create-a-component)**
+### Create a component for API component 
 
-#### View API component
+- #### Access to **[link](/docs/tutorial-basics/idp-service-catalog#create-a-component)**
+
+### View API component
 
 ![](./media/idp-view-api-component-1.png)
 

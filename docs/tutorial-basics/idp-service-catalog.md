@@ -9,7 +9,7 @@ Service catalog is a main feature in Util4devops IDP with creating components, A
 ## Create a `catalog-info.yaml`
 - #### Reference documentation: https://backstage.io/docs/features/software-catalog/descriptor-format/
 
-- ### For example:
+- #### For example:
 ```yaml title="catalog-info.yaml"
 apiVersion: backstage.io/v1alpha1
 kind: Component

@@ -8,7 +8,7 @@ sidebar_position: 5
 
 It is responsible for the **documentation** related to the catalog component
 
-#### View documentation
+### View documentation
 
 ![](./media/idp-view-documentation-1.png)
 
@@ -18,14 +18,14 @@ It is responsible for the **documentation** related to the catalog component
 
     ![](./media/idp-view-documentation-2.png)
 
-- ### You can view documentation related to service component
+- #### You can view documentation related to service component
 
     ![](./media/idp-view-documentation-3.png)
 
-#### Configure documentation in `catalog-info.yaml` file
+### Configure documentation in `catalog-info.yaml` file
 - #### Reference documentation: https://backstage.io/docs/features/techdocs/creating-and-publishing/
 
-- ### Get documentation source from local source
+- #### Get documentation source from local source
     ```yaml title="catalog-info.yaml"
     metadata:
     annotations:

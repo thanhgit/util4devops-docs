@@ -16,11 +16,11 @@ It is **group of sections** connected through:
 - **toolkit** contains then main features that IDP provides
 - **utility functions** contains many functions that developers frequently use
 
-#### Project shortcut feature
+### Project shortcut feature
 
 ![](./media/click-project-shortcut.gif)
 
-#### Search feature
+### Search feature
 
 ![](./media/idp-home-search-click-search.png)
 
@@ -30,14 +30,14 @@ It is **group of sections** connected through:
 
 ![](./media/click-utility-functions.gif)
 
-#### Catalog feature
+### Catalog feature
 
 ![](./media/idp-home-search-click-catalog.png)
 
-#### API feature
+### API feature
 
 ![](./media/idp-home-search-click-api.png)
 
-#### Documentation feature
+### Documentation feature
 
 ![](./media/idp-home-search-click-docs.png)

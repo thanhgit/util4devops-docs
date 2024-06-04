@@ -9,47 +9,47 @@ This page helps you explore your system model like domains, groups, systems, too
 - **Domains** of projects such as Payments, Core Banking, Card, ...
 - **Groups** is whom, 
 
-### `Domain`
+### Domain
 - #### Documentation reference: https://backstage.io/docs/features/software-catalog/system-model/#domain
 
-- #### `Overview domain page`
+- #### Overview domain page
 
   ![](./img/idp-explore-domain-feature.png)
 
-- #### `How to access domain page`
+- #### How to access domain page
 
   ![](./img/explore-domain.gif)
 
 
-### `Groups`
-- ### Documentation reference: https://backstage.io/docs/features/software-catalog/system-model/#group
+### Groups
+- #### Documentation reference: https://backstage.io/docs/features/software-catalog/system-model/#group
 
-- #### `Overview group page`
+- #### Overview group page
 
   ![](./img/idp-explore-group-feature.png)
 
-- #### `How to access group page`
+- #### How to access group page
 
   ![](./img/explore-group.gif)
 
-### `Systems`
-- ### Documentation reference: https://backstage.io/docs/features/software-catalog/system-model/#system
+### Systems
+- #### Documentation reference: https://backstage.io/docs/features/software-catalog/system-model/#system
 
-- #### `Overview system page`
+- #### Overview system page
 
   ![](./img/idp-explore-system-feature.png)
 
-- #### `How to access specific system entity` (util4dev)
+- #### How to access specific system entity (util4dev)
 
   ![](./img/explore-system.gif)
 
-### `Tools`
-- ### **Some tools** used in your organization
+### Tools
+- #### **Some tools** used in your organization
 
-- #### `Overview tool page`
+- #### Overview tool page
 
   ![](./img/idp-explore-tool-feature.png)
 
-- #### `How to access specific tool` (argoCD)
+- #### How to access specific tool (argoCD)
 
   ![](./img/explore-tool.gif)
