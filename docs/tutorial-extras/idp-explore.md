@@ -6,9 +6,6 @@ sidebar_position: 1
 
 This page helps you explore your system model like domains, groups, systems, tools
 
-- **Domains** of projects such as Payments, Core Banking, Card, ...
-- **Groups** is whom, 
-
 ### Domain
 - #### Documentation reference: https://backstage.io/docs/features/software-catalog/system-model/#domain
 
