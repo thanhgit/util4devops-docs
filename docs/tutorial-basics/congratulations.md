@@ -10,7 +10,7 @@ Util4devops IDP has **much more to offer**!
 
 Have **30 more minutes**? Take a look at **[Tutorial - Extras](/docs/category/tutorial---extras)**.
 
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/thanhgit/uti4devops-docs/issues)
+Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/thanhgit/util4devops-docs/issues)
 
 ## What's next?
 

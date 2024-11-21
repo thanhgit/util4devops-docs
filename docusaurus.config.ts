@@ -17,7 +17,7 @@ const config: Config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'thanhgit', // Usually your GitHub org/user name.
-  projectName: 'uti4devops-docs', // Usually your repo name.
+  projectName: 'util4devops-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -39,14 +39,14 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/thanhgit/uti4devops-docs/blob/master/',
+            'https://github.com/thanhgit/util4devops-docs/blob/master/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/thanhgit/uti4devops-docs/blob/master/',
+            'https://github.com/thanhgit/util4devops-docs/blob/master/',
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -73,7 +73,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/thanhgit/uti4devops-docs',
+          href: 'https://github.com/thanhgit/util4devops-docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -120,7 +120,7 @@ const config: Config = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/thanhgit/uti4devops-docs',
+              href: 'https://github.com/thanhgit/util4devops-docs',
             },
           ],
         },
