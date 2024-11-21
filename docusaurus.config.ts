@@ -79,6 +79,9 @@ const config: Config = {
         },
       ],
     },
+    sidebar: {
+      hideable: true,
+    },
     footer: {
       style: 'dark',
       links: [
