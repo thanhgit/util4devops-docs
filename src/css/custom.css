@@ -33,6 +33,10 @@ html[data-iframe='true'] .navbar {
   display: none;
 }
 
+html[data-iframe='true'] .container {
+  max-width: fit-content;
+}
+
 html[data-iframe='true'] article nav {
   display: none;
 }
