@@ -37,6 +37,10 @@ html[data-iframe='true'] .container {
   max-width: none;
 }
 
+html[data-iframe='true'] .theme-doc-toc-mobile {
+  display: none;
+}
+
 html[data-iframe='true'] main {
   max-width: none;
 }
