@@ -43,9 +43,9 @@ If you are using GitHub pages for hosting, this command is a convenient way to b
 ### `Configure domain`
 - ### Create static/CNAME
 ```bash
-docs.util4dev.shop
+docs.util4dev.tech
 ```
 - ### Add CNAME record
 ```bash
-CNAME docs.util4dev.shop thanhgit.github.io
+CNAME docs.util4dev.tech thanhgit.github.io
 ```

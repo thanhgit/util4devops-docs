@@ -27,8 +27,8 @@ metadata:
     backstage.io/techdocs-ref: dir:.
 
     ## prometheus plugin
-    prometheus.io/uptime: 'demo test,git.util4dev.xyz,docker.util4dev.shop'
-    prometheus.io/rule: 'monitor_status{monitor_name="python-app.apis.util4dev.shop"}'
+    prometheus.io/uptime: 'demo test,git.util4dev.xyz,docker.util4dev.tech'
+    prometheus.io/rule: 'monitor_status{monitor_name="python-app.apis.util4dev.tech"}'
     prometheus.io/alert: all
 
     ## gitlab plugin

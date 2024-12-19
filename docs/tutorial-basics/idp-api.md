@@ -23,7 +23,7 @@ metadata:
     A super simple RESTful api created using Flask
   links:
     - title: Repo
-      url: https://git.util4dev.shop/apps/python-api
+      url: https://git.util4dev.tech/apps/python-api
   tags:
     - swagger
     - yaml
@@ -44,7 +44,7 @@ info:
   license:
     name: MIT
 servers:
-  - url: https://python-api.dev.util4dev.shop
+  - url: https://python-api.dev.util4dev.tech
 paths:
   /:
     get:
