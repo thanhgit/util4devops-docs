@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>Util4Devops Blog</title>
-        <link>https://docs.util4dev.shop/blog</link>
+        <link>https://docs.util4dev.tech/blog</link>
         <description>Util4Devops Blog</description>
         <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,8 +10,8 @@
         <language>en</language>
         <item>
             <title><![CDATA[Welcome]]></title>
-            <link>https://docs.util4dev.shop/blog/welcome</link>
-            <guid>https://docs.util4dev.shop/blog/welcome</guid>
+            <link>https://docs.util4dev.tech/blog/welcome</link>
+            <guid>https://docs.util4dev.tech/blog/welcome</guid>
             <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[Util4devops are powered by the platform engineering and backstage framework]]></description>
             <content:encoded><![CDATA[<p>Util4devops are powered by the <a href="https://platformengineering.org/" target="_blank" rel="noopener noreferrer">platform engineering</a> and <a href="https://backstage.io/" target="_blank" rel="noopener noreferrer">backstage framework</a></p>

@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://docs.util4dev.shop/blog</id>
+    <id>https://docs.util4dev.tech/blog</id>
     <title>Util4Devops Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://docs.util4dev.shop/blog"/>
+    <link rel="alternate" href="https://docs.util4dev.tech/blog"/>
     <subtitle>Util4Devops Blog</subtitle>
-    <icon>https://docs.util4dev.shop/img/favicon.ico</icon>
+    <icon>https://docs.util4dev.tech/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
-        <id>https://docs.util4dev.shop/blog/welcome</id>
-        <link href="https://docs.util4dev.shop/blog/welcome"/>
+        <id>https://docs.util4dev.tech/blog/welcome</id>
+        <link href="https://docs.util4dev.tech/blog/welcome"/>
         <updated>2021-08-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Util4devops are powered by the platform engineering and backstage framework]]></summary>
         <content type="html"><![CDATA[<p>Util4devops are powered by the <a href="https://platformengineering.org/" target="_blank" rel="noopener noreferrer">platform engineering</a> and <a href="https://backstage.io/" target="_blank" rel="noopener noreferrer">backstage framework</a></p>
